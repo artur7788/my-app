@@ -1,0 +1,20 @@
+.back{
+    position: absolute;
+    left: 35%;
+    top: 30%;
+    filter: drop-shadow(0 0 15rem rgb(0, 0, 0));
+}
+.popup{
+    position: absolute;
+    color: #001D3E;
+    min-width: 30vw;
+}
+
+.save{
+    background-color: #00CBEA;
+    color: white;
+}
+
+.close{
+    cursor:pointer;
+}

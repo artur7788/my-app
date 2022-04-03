@@ -1,0 +1,21 @@
+.tablo{
+    min-width: 20vw;
+    color: grey;
+}
+
+.save{
+    background-color: #00CBEA;
+    color: white;
+}
+
+.priority{
+    display: flex;
+    justify-content: flex-end;
+}
+.modal-content{
+    border-bottom:2px solid #B1B8C5 ;
+    border-radius: 10px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}

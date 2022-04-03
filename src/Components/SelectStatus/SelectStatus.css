@@ -1,0 +1,20 @@
+.ToDo{
+    width: 30%;
+    background-color: #EBECF0;
+    border-radius: 10px;
+}
+
+.Doing{
+    width: 30%;
+    background-color: #EBECF0;
+    border-radius: 10px;
+}
+.Done{
+    width: 30%;
+    background-color: #EBECF0;
+    border-radius: 10px;
+}
+
+.name{
+    padding: 20px 0 0 20px;
+}
